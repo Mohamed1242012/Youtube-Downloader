@@ -40,6 +40,11 @@ The YouTube Downloader Application is a simple yet powerful tool that allows use
 6. Click the "Download" button to start the download.
 7. Optionally, check the "Open video after downloading" checkbox to open the downloaded file automatically.
 
+## Download For Windows
+
+[![Download Exe](https://img.shields.io/badge/Download-EXE-blue)](https://mega.nz/file/9b01AJJT#GTqxLXcLnSXG_TdUDR1iiC2O346PgFZKHvEi4oAxmlw)
+[![Download Portable](https://img.shields.io/badge/Download-Portable-green)](https://mega.nz/file/tW1hCYrS#16R-gHnF_BkwJ200Sd7P-axQ_SpCf_WAtf7Nq4pf_kU)
+
 ## License
 
 This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
