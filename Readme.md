@@ -12,19 +12,35 @@ The YouTube Downloader Application is a simple yet powerful tool that allows use
 
 ## Installation
 
-1. Clone the repository:
+You can follow this tutorial for downloading : [Youtube Video]()
+
+1. Download and Install Python:
+
+   If you don't have Python installed on your system, you can download it from the official website: [Download Python](https://www.python.org/downloads/)
+
+2. Download and Install Git:
+
+   If you don't have Git installed on your system, you can download it from the official website: [Download Git](https://git-scm.com/downloads/) , this will make you able to clone the repository
+
+2. Clone the repository:
 
    ```bash
    git clone https://github.com/Mohamed1242012/Youtube-Downloader.git
    ```
 
-2. Install the required dependencies:
+2. Cd in to the directory:
+
+   ```bash
+   cd Youtube-Downloader
+   ```
+
+3. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the application:
+4. Run the application:
 
    ```bash
    python YouTubeDownloader.py
